@@ -1,0 +1,6 @@
+tetextxt = " good evening"
+adress = " chikodi"
+Per =88
+Phno= 6890644
+
+print("Hi everyone", text,"i am from", adress, "my percentage is in ll pu ", Per,"my content number is", Phno,)
